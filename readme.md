@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Since I'm not familiar with JS(React), I utilized these below.
 
 -https://stackoverflow.com/questions/9277311/how-can-i-horizontally-align-my-divs
+
 -https://www.digitalocean.com/community/tutorials/how-to-call-web-apis-with-the-useeffect-hook-in-react
 
 ## Available Scripts
